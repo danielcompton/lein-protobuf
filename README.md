@@ -9,7 +9,7 @@ Add the following to your `project.clj` file:
 
     :plugins [[lein-protobuf "0.5.0"]]
 
-Replace `"0.5.0"` with the actual latest version, which you can find at http://clojars.org/lein-protobuf.
+Replace `"0.5.0"` with the actual latest version: [![Clojars Project](https://img.shields.io/clojars/v/lein-protobuf.svg)](https://clojars.org/lein-protobuf)
 
 Also, you should add the version of the protobuf library to your dependencies in `project.clj` corresponding to the version of `protoc` being used:
 
